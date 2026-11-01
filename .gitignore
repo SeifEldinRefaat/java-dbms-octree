@@ -1,0 +1,42 @@
+### Build output ###
+out/
+target/
+bin/
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### DBApp runtime data (generated at run time, not source) ###
+/data/
+/metadata.csv
+
+### Course material — not ours to redistribute ###
+MET-2023-DatabaseII-MiniProject-1.pdf
+*.pdf
